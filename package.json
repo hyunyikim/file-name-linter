@@ -1,14 +1,38 @@
 {
+  "publisher": "hyunyi-kim",
   "name": "file-name-linter",
   "displayName": "File Name Linter",
-  "description": "",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.98.0"
-  },
+  "description": "Helps you follow consistent file naming rules for images, audio, fonts, and more.",
+  "license": "MIT",
+  "icon": "assets/icon.png",
   "categories": [
     "Other"
   ],
+  "galleryBanner": {
+    "color": "#49108B",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyunyikim/file-name-linter"
+  },
+  "keywords": [
+    "linter",
+    "filename",
+    "file name",
+    "hyphen-case",
+    "naming convention",
+    "naming rules",
+    "file name checker",
+    "file name validator",
+    "file renamer",
+    "VSCode",
+    "resource files"
+  ],
+  "engines": {
+    "vscode": "^1.98.0"
+  },
   "activationEvents": [
     "onStartupFinished"
   ],
