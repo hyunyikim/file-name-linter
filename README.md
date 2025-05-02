@@ -1,6 +1,6 @@
 # File Name Linter
 
-![demo](assets/demo.gif)
+![demo](https://assets.hyunyikim.xyz/public/file-linter-demo.gif)
 
 Helps enforce **hyphen-case** naming rules for resource files. When a file name doesn't follow the rule, it shows an info message suggesting the correct format.
 
