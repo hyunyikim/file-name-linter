@@ -2,7 +2,7 @@
   "publisher": "hyunyi-kim",
   "name": "file-name-linter",
   "displayName": "File Name Linter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helps you follow consistent file naming rules for images, audio, fonts, and more.",
   "license": "MIT",
   "icon": "assets/icon.png",
